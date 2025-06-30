@@ -31,13 +31,13 @@ A simple and functional web project demonstrating the use of HTML for structure,
 ## 📁 Project Structure
 
 
-
+```
 📦 Intern01\_Day05
 ├── index.html        # Main HTML file
 ├── style.css         # Custom styling
 ├── script.js         # JavaScript interactivity
 └── README.md         # You're reading it 😉
-
+```
 ---
 
 ## 🧑‍💻 Getting Started
